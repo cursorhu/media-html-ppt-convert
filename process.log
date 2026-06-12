@@ -1,0 +1,1069 @@
+2026-06-12 14:37:32,034 - utils - INFO - 创建目录: C:\ai-projects\html-to-ppt\temp
+2026-06-12 14:37:32,035 - utils - INFO - 创建目录: C:\ai-projects\html-to-ppt\output
+2026-06-12 14:37:32,400 - utils - INFO - ==================================================
+2026-06-12 14:37:32,400 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 14:37:32,400 - utils - INFO - ==================================================
+2026-06-12 14:37:32,400 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 14:37:32,563 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 14:37:32,566 - utils - INFO - 数据行数: 150
+2026-06-12 14:37:32,566 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 14:37:32,566 - utils - INFO - 提取了5行有效数据
+2026-06-12 14:37:32,566 - utils - INFO - 共读取 5 行数据
+2026-06-12 14:37:32,566 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 14:37:32,576 - utils - INFO - PPT生成器初始化完成
+2026-06-12 14:37:32,576 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 14:37:32,576 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 14:37:32,582 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 14:37:32,582 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 14:37:32,582 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 14:37:32,582 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 14:37:41,994 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 14:37:41,994 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 14:37:50,594 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781246270426.png
+2026-06-12 14:37:50,609 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781246270426.png
+2026-06-12 14:37:50,609 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 14:37:50,609 - utils - INFO - ✓ 第 1 行处理成功
+2026-06-12 14:37:50,611 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 14:37:50,611 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 14:37:50,611 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 14:37:50,611 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 14:37:50,611 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 14:37:57,464 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781246277267.png
+2026-06-12 14:37:57,472 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781246277267.png
+2026-06-12 14:37:57,472 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 14:37:57,472 - utils - INFO - ✓ 第 2 行处理成功
+2026-06-12 14:37:57,472 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 14:37:57,472 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 14:37:57,472 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 14:37:57,472 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 14:37:57,472 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 14:38:03,081 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781246282937.png
+2026-06-12 14:38:03,089 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781246282937.png
+2026-06-12 14:38:03,089 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 14:38:03,089 - utils - INFO - ✓ 第 3 行处理成功
+2026-06-12 14:38:03,089 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 14:38:03,089 - utils - INFO - 标题: 湖北武汉 百年钟楼前首次响起新年交响乐
+2026-06-12 14:38:03,089 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEhngL5mnUXErJvAIbAvxd260101.shtml
+2026-06-12 14:38:03,089 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEhngL5mnUXErJvAIbAvxd260101.shtml
+2026-06-12 14:38:03,089 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEhngL5mnUXErJvAIbAvxd260101.shtml
+2026-06-12 14:38:10,403 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781246290257.png
+2026-06-12 14:38:10,413 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781246290257.png
+2026-06-12 14:38:10,414 - utils - INFO - 成功添加幻灯片: 湖北武汉 百年钟楼前首次响起新年交响乐...
+2026-06-12 14:38:10,414 - utils - INFO - ✓ 第 4 行处理成功
+2026-06-12 14:38:10,414 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 14:38:10,414 - utils - INFO - 标题: 湖北武汉 百年钟楼前首次响起新年交响乐
+2026-06-12 14:38:10,414 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDE4wGUgAgouwpNMNrlnym2260101.shtml
+2026-06-12 14:38:10,414 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDE4wGUgAgouwpNMNrlnym2260101.shtml
+2026-06-12 14:38:10,414 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDE4wGUgAgouwpNMNrlnym2260101.shtml
+2026-06-12 14:38:16,613 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781246296469.png
+2026-06-12 14:38:16,621 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781246296469.png
+2026-06-12 14:38:16,622 - utils - INFO - 成功添加幻灯片: 湖北武汉 百年钟楼前首次响起新年交响乐...
+2026-06-12 14:38:16,622 - utils - INFO - ✓ 第 5 行处理成功
+2026-06-12 14:38:16,622 - utils - INFO - 
+步骤5: 保存PPT文件
+2026-06-12 14:38:16,683 - utils - INFO - PPT保存成功: C:\ai-projects\html-to-ppt\output\媒体摘录.pptx
+2026-06-12 14:38:16,684 - utils - INFO - 步骤6: 清理临时文件
+2026-06-12 14:38:16,684 - utils - INFO - 
+==================================================
+2026-06-12 14:38:16,684 - utils - INFO - 处理完成！
+2026-06-12 14:38:16,684 - utils - INFO - 成功: 5 行
+2026-06-12 14:38:16,684 - utils - INFO - 失败: 0 行
+2026-06-12 14:38:16,684 - utils - INFO - 输出文件: C:\ai-projects\html-to-ppt\output\媒体摘录.pptx
+2026-06-12 14:38:16,685 - utils - INFO - ==================================================
+2026-06-12 14:38:16,685 - utils - ERROR - 程序执行失败: 'gbk' codec can't encode character '\u2713' in position 2: illegal multibyte sequence
+Traceback (most recent call last):
+  File "C:\ai-projects\html-to-ppt\main.py", line 112, in main
+    print(f"\n✓ PPT生成成功！")
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2713' in position 2: illegal multibyte sequence
+2026-06-12 14:38:18,830 - utils - INFO - 浏览器已关闭
+2026-06-12 14:39:03,628 - utils - INFO - ==================================================
+2026-06-12 14:39:03,628 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 14:39:03,628 - utils - INFO - ==================================================
+2026-06-12 14:39:03,628 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 14:39:03,779 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 14:39:03,779 - utils - INFO - 数据行数: 150
+2026-06-12 14:39:03,779 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 14:39:03,782 - utils - INFO - 提取了5行有效数据
+2026-06-12 14:39:03,782 - utils - INFO - 共读取 5 行数据
+2026-06-12 14:39:03,782 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 14:39:03,792 - utils - INFO - PPT生成器初始化完成
+2026-06-12 14:39:03,793 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 14:39:03,793 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 14:39:03,797 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 14:39:03,797 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 14:39:03,797 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 14:39:03,797 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 14:40:06,721 - utils - ERROR - 初始化浏览器失败: Message: session not created
+from chrome not reachable
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7ae83fd95+15395]
+	chromedriver!GetHandleVerifier [0x7ff7ae83fdf0+153f0]
+	chromedriver!(No symbol) [0x7ff7ae3776e6]
+	chromedriver!(No symbol) [0x7ff7ae367d5a]
+	chromedriver!(No symbol) [0x7ff7ae3beedb]
+	chromedriver!(No symbol) [0x7ff7ae3b943a]
+	chromedriver!(No symbol) [0x7ff7ae3b3f99]
+	chromedriver!(No symbol) [0x7ff7ae407fd1]
+	chromedriver!(No symbol) [0x7ff7ae407836]
+	chromedriver!(No symbol) [0x7ff7ae3c3a58]
+	chromedriver!(No symbol) [0x7ff7ae3c4953]
+	chromedriver!GetHandleVerifier [0x7ff7aee05511+5dab11]
+	chromedriver!GetHandleVerifier [0x7ff7aedff8fb+5d4efb]
+	chromedriver!GetHandleVerifier [0x7ff7aee23205+5f8805]
+	chromedriver!GetHandleVerifier [0x7ff7ae85cc6e+3226e]
+	chromedriver!GetHandleVerifier [0x7ff7ae86562c+3ac2c]
+	chromedriver!GetHandleVerifier [0x7ff7ae849984+1ef84]
+	chromedriver!GetHandleVerifier [0x7ff7ae849b14+1f114]
+	chromedriver!GetHandleVerifier [0x7ff7ae82ca77+2077]
+	KERNEL32!BaseThreadInitThunk [0x7ffb28777374+14]
+	ntdll!RtlUserThreadStart [0x7ffb2917cc91+21]
+
+2026-06-12 14:40:06,721 - utils - WARNING - scrape_webpage 第1次尝试失败: Message: session not created
+from chrome not reachable
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7ae83fd95+15395]
+	chromedriver!GetHandleVerifier [0x7ff7ae83fdf0+153f0]
+	chromedriver!(No symbol) [0x7ff7ae3776e6]
+	chromedriver!(No symbol) [0x7ff7ae367d5a]
+	chromedriver!(No symbol) [0x7ff7ae3beedb]
+	chromedriver!(No symbol) [0x7ff7ae3b943a]
+	chromedriver!(No symbol) [0x7ff7ae3b3f99]
+	chromedriver!(No symbol) [0x7ff7ae407fd1]
+	chromedriver!(No symbol) [0x7ff7ae407836]
+	chromedriver!(No symbol) [0x7ff7ae3c3a58]
+	chromedriver!(No symbol) [0x7ff7ae3c4953]
+	chromedriver!GetHandleVerifier [0x7ff7aee05511+5dab11]
+	chromedriver!GetHandleVerifier [0x7ff7aedff8fb+5d4efb]
+	chromedriver!GetHandleVerifier [0x7ff7aee23205+5f8805]
+	chromedriver!GetHandleVerifier [0x7ff7ae85cc6e+3226e]
+	chromedriver!GetHandleVerifier [0x7ff7ae86562c+3ac2c]
+	chromedriver!GetHandleVerifier [0x7ff7ae849984+1ef84]
+	chromedriver!GetHandleVerifier [0x7ff7ae849b14+1f114]
+	chromedriver!GetHandleVerifier [0x7ff7ae82ca77+2077]
+	KERNEL32!BaseThreadInitThunk [0x7ffb28777374+14]
+	ntdll!RtlUserThreadStart [0x7ffb2917cc91+21]
+
+2026-06-12 14:40:09,873 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 14:40:09,873 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 14:40:18,295 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781246418136.png
+2026-06-12 14:40:22,396 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781246418136.png
+2026-06-12 14:40:22,396 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 14:40:22,396 - utils - INFO - ✓ 第 1 行处理成功
+2026-06-12 14:40:22,396 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 14:40:22,396 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 14:40:22,396 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 14:40:22,396 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 14:40:22,396 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 14:40:29,097 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781246428946.png
+2026-06-12 14:40:29,104 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781246428946.png
+2026-06-12 14:40:29,104 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 14:40:29,104 - utils - INFO - ✓ 第 2 行处理成功
+2026-06-12 14:40:29,104 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 14:40:29,104 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 14:40:29,104 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 14:40:29,104 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 14:40:29,104 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 14:40:34,664 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781246434547.png
+2026-06-12 14:40:34,671 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781246434547.png
+2026-06-12 14:40:34,671 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 14:40:34,671 - utils - INFO - ✓ 第 3 行处理成功
+2026-06-12 14:40:34,671 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 14:40:34,671 - utils - INFO - 标题: 湖北武汉 百年钟楼前首次响起新年交响乐
+2026-06-12 14:40:34,671 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEhngL5mnUXErJvAIbAvxd260101.shtml
+2026-06-12 14:40:34,671 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEhngL5mnUXErJvAIbAvxd260101.shtml
+2026-06-12 14:40:34,671 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEhngL5mnUXErJvAIbAvxd260101.shtml
+2026-06-12 14:41:02,031 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781246461885.png
+2026-06-12 14:41:02,042 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781246461885.png
+2026-06-12 14:41:02,042 - utils - INFO - 成功添加幻灯片: 湖北武汉 百年钟楼前首次响起新年交响乐...
+2026-06-12 14:41:02,042 - utils - INFO - ✓ 第 4 行处理成功
+2026-06-12 14:41:02,042 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 14:41:02,042 - utils - INFO - 标题: 湖北武汉 百年钟楼前首次响起新年交响乐
+2026-06-12 14:41:02,042 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDE4wGUgAgouwpNMNrlnym2260101.shtml
+2026-06-12 14:41:02,042 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDE4wGUgAgouwpNMNrlnym2260101.shtml
+2026-06-12 14:41:02,042 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDE4wGUgAgouwpNMNrlnym2260101.shtml
+2026-06-12 14:41:29,432 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781246489277.png
+2026-06-12 14:41:29,438 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781246489277.png
+2026-06-12 14:41:29,438 - utils - INFO - 成功添加幻灯片: 湖北武汉 百年钟楼前首次响起新年交响乐...
+2026-06-12 14:41:29,439 - utils - INFO - ✓ 第 5 行处理成功
+2026-06-12 14:41:29,439 - utils - INFO - 
+步骤5: 保存PPT文件
+2026-06-12 14:41:29,499 - utils - INFO - PPT保存成功: C:\ai-projects\html-to-ppt\output\媒体摘录.pptx
+2026-06-12 14:41:29,499 - utils - INFO - 步骤6: 清理临时文件
+2026-06-12 14:41:29,500 - utils - INFO - 
+==================================================
+2026-06-12 14:41:29,500 - utils - INFO - 处理完成！
+2026-06-12 14:41:29,500 - utils - INFO - 成功: 5 行
+2026-06-12 14:41:29,500 - utils - INFO - 失败: 0 行
+2026-06-12 14:41:29,500 - utils - INFO - 输出文件: C:\ai-projects\html-to-ppt\output\媒体摘录.pptx
+2026-06-12 14:41:29,500 - utils - INFO - ==================================================
+2026-06-12 14:41:31,653 - utils - INFO - 浏览器已关闭
+2026-06-12 15:23:28,613 - utils - INFO - ==================================================
+2026-06-12 15:23:28,613 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 15:23:28,613 - utils - INFO - ==================================================
+2026-06-12 15:23:28,613 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 15:23:28,760 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 15:23:28,761 - utils - INFO - 数据行数: 150
+2026-06-12 15:23:28,761 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 15:23:28,762 - utils - INFO - 提取了5行有效数据
+2026-06-12 15:23:28,763 - utils - INFO - 共读取 5 行数据
+2026-06-12 15:23:28,763 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 15:23:28,766 - utils - INFO - PPT生成器初始化完成
+2026-06-12 15:23:28,766 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 15:23:28,767 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 15:23:28,771 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 15:23:28,771 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 15:23:28,772 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:23:28,772 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:23:29,975 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 15:23:29,976 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:23:37,691 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249017534.png
+2026-06-12 15:23:37,708 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249017534.png
+2026-06-12 15:23:37,708 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 15:23:37,708 - utils - INFO - ✓ 第 1 行处理成功
+2026-06-12 15:23:37,708 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 15:23:37,708 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 15:23:37,708 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:23:37,709 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:23:37,709 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:23:43,691 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249023529.png
+2026-06-12 15:23:43,699 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249023529.png
+2026-06-12 15:23:43,699 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 15:23:43,700 - utils - INFO - ✓ 第 2 行处理成功
+2026-06-12 15:23:43,700 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 15:23:43,700 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 15:23:43,700 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:23:43,700 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:23:43,700 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:23:49,364 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249029214.png
+2026-06-12 15:23:49,371 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249029214.png
+2026-06-12 15:23:49,371 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 15:23:49,371 - utils - INFO - ✓ 第 3 行处理成功
+2026-06-12 15:23:49,371 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 15:23:49,371 - utils - INFO - 标题: 湖北武汉 百年钟楼前首次响起新年交响乐
+2026-06-12 15:23:49,371 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEhngL5mnUXErJvAIbAvxd260101.shtml
+2026-06-12 15:23:49,371 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEhngL5mnUXErJvAIbAvxd260101.shtml
+2026-06-12 15:23:49,372 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEhngL5mnUXErJvAIbAvxd260101.shtml
+2026-06-12 15:23:55,233 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249035072.png
+2026-06-12 15:23:55,241 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249035072.png
+2026-06-12 15:23:55,241 - utils - INFO - 成功添加幻灯片: 湖北武汉 百年钟楼前首次响起新年交响乐...
+2026-06-12 15:23:55,241 - utils - INFO - ✓ 第 4 行处理成功
+2026-06-12 15:23:55,242 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 15:23:55,242 - utils - INFO - 标题: 湖北武汉 百年钟楼前首次响起新年交响乐
+2026-06-12 15:23:55,242 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDE4wGUgAgouwpNMNrlnym2260101.shtml
+2026-06-12 15:23:55,243 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDE4wGUgAgouwpNMNrlnym2260101.shtml
+2026-06-12 15:23:55,243 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDE4wGUgAgouwpNMNrlnym2260101.shtml
+2026-06-12 15:24:00,934 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249040792.png
+2026-06-12 15:24:00,942 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249040792.png
+2026-06-12 15:24:00,943 - utils - INFO - 成功添加幻灯片: 湖北武汉 百年钟楼前首次响起新年交响乐...
+2026-06-12 15:24:00,943 - utils - INFO - ✓ 第 5 行处理成功
+2026-06-12 15:24:00,943 - utils - INFO - 
+步骤5: 保存PPT文件
+2026-06-12 15:24:00,998 - utils - INFO - PPT保存成功: C:\ai-projects\html-to-ppt\output\媒体摘录.pptx
+2026-06-12 15:24:00,999 - utils - INFO - 步骤6: 清理临时文件
+2026-06-12 15:24:01,000 - utils - INFO - 
+==================================================
+2026-06-12 15:24:01,000 - utils - INFO - 处理完成！
+2026-06-12 15:24:01,000 - utils - INFO - 成功: 5 行
+2026-06-12 15:24:01,000 - utils - INFO - 失败: 0 行
+2026-06-12 15:24:01,000 - utils - INFO - 输出文件: C:\ai-projects\html-to-ppt\output\媒体摘录.pptx
+2026-06-12 15:24:01,000 - utils - INFO - ==================================================
+2026-06-12 15:24:03,137 - utils - INFO - 浏览器已关闭
+2026-06-12 15:31:16,081 - utils - INFO - ==================================================
+2026-06-12 15:31:16,081 - utils - INFO - 测试模式：视频+图文
+2026-06-12 15:31:16,081 - utils - INFO - ==================================================
+2026-06-12 15:31:16,223 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 15:31:16,223 - utils - INFO - 数据行数: 150
+2026-06-12 15:31:16,223 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 15:31:16,228 - utils - INFO - 提取了150行有效数据
+2026-06-12 15:31:16,228 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:31:16,230 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:31:16,230 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:31:16,230 - utils - INFO - 识别为图文链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:31:16,230 - utils - INFO - 识别为图文链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:31:16,233 - utils - INFO - PPT生成器初始化完成
+2026-06-12 15:31:16,238 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 15:31:16,238 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 15:31:16,238 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:31:16,238 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:31:17,434 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 15:31:17,434 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:31:25,505 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249485352.png
+2026-06-12 15:31:25,520 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249485352.png
+2026-06-12 15:31:25,520 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 15:31:25,520 - utils - INFO - 第 1 行处理成功
+2026-06-12 15:31:25,520 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 15:31:25,520 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 15:31:25,520 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:31:25,520 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:31:25,520 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:31:31,530 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249491362.png
+2026-06-12 15:31:31,537 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249491362.png
+2026-06-12 15:31:31,537 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 15:31:31,537 - utils - INFO - 第 2 行处理成功
+2026-06-12 15:31:31,537 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 15:31:31,537 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 15:31:31,537 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:31:31,537 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:31:31,537 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:31:37,333 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249497186.png
+2026-06-12 15:31:37,341 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249497186.png
+2026-06-12 15:31:37,341 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 15:31:37,341 - utils - INFO - 第 3 行处理成功
+2026-06-12 15:31:37,341 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 15:31:37,341 - utils - INFO - 标题: 新年舞台奏响和美乐章（视线）
+2026-06-12 15:31:37,341 - utils - INFO - 链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:31:37,341 - utils - INFO - 识别为图文链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:31:37,341 - utils - INFO - 开始抓取网页: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:31:43,453 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249503327.png
+2026-06-12 15:31:43,474 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:31:43,482 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249503327.png
+2026-06-12 15:31:43,484 - utils - INFO - 成功添加幻灯片: 新年舞台奏响和美乐章（视线）...
+2026-06-12 15:31:43,484 - utils - INFO - 第 4 行处理成功
+2026-06-12 15:31:43,484 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 15:31:43,484 - utils - INFO - 标题: 元旦假期湖北A级景区“吸金”逾15亿元
+2026-06-12 15:31:43,484 - utils - INFO - 链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:31:43,484 - utils - INFO - 识别为图文链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:31:43,484 - utils - INFO - 开始抓取网页: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:31:50,788 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249510664.png
+2026-06-12 15:31:50,823 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:31:50,830 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249510664.png
+2026-06-12 15:31:50,831 - utils - INFO - 成功添加幻灯片: 元旦假期湖北A级景区“吸金”逾15亿元...
+2026-06-12 15:31:50,831 - utils - INFO - 第 5 行处理成功
+2026-06-12 15:31:50,895 - utils - INFO - PPT保存成功: output/测试_视频图文混合.pptx
+2026-06-12 15:31:53,031 - utils - INFO - 浏览器已关闭
+2026-06-12 15:32:25,689 - utils - INFO - ==================================================
+2026-06-12 15:32:25,689 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 15:32:25,689 - utils - INFO - ==================================================
+2026-06-12 15:32:25,689 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 15:32:25,829 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 15:32:25,829 - utils - INFO - 数据行数: 150
+2026-06-12 15:32:25,829 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 15:32:25,836 - utils - INFO - 提取了150行有效数据
+2026-06-12 15:32:25,836 - utils - INFO - 测试模式：选择了3条视频 + 2条图文
+2026-06-12 15:32:25,836 - utils - INFO - 共读取 5 行数据
+2026-06-12 15:32:25,836 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 15:32:25,839 - utils - INFO - PPT生成器初始化完成
+2026-06-12 15:32:25,839 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 15:32:25,839 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 15:32:25,843 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 15:32:25,843 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 15:32:25,843 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:32:25,843 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:32:26,986 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 15:32:26,986 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:32:33,871 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249553714.png
+2026-06-12 15:32:33,886 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249553714.png
+2026-06-12 15:32:33,886 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 15:32:33,886 - utils - INFO - ✓ 第 1 行处理成功
+2026-06-12 15:32:33,886 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 15:32:33,886 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 15:32:33,886 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:32:33,886 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:32:33,886 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:32:39,514 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249559372.png
+2026-06-12 15:32:39,521 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249559372.png
+2026-06-12 15:32:39,522 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 15:32:39,522 - utils - INFO - ✓ 第 2 行处理成功
+2026-06-12 15:32:39,522 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 15:32:39,522 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 15:32:39,522 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:32:39,522 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:32:39,522 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:32:45,057 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249564925.png
+2026-06-12 15:32:45,064 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249564925.png
+2026-06-12 15:32:45,064 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 15:32:45,064 - utils - INFO - ✓ 第 3 行处理成功
+2026-06-12 15:32:45,064 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 15:32:45,064 - utils - INFO - 标题: 新年舞台奏响和美乐章（视线）
+2026-06-12 15:32:45,064 - utils - INFO - 链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:32:45,065 - utils - INFO - 识别为图文链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:32:45,065 - utils - INFO - 开始抓取网页: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:32:50,881 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249570755.png
+2026-06-12 15:32:50,901 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:32:50,909 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249570755.png
+2026-06-12 15:32:50,911 - utils - INFO - 成功添加幻灯片: 新年舞台奏响和美乐章（视线）...
+2026-06-12 15:32:50,911 - utils - INFO - ✓ 第 4 行处理成功
+2026-06-12 15:32:50,911 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 15:32:50,911 - utils - INFO - 标题: 元旦假期湖北A级景区“吸金”逾15亿元
+2026-06-12 15:32:50,911 - utils - INFO - 链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:32:50,911 - utils - INFO - 识别为图文链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:32:50,911 - utils - INFO - 开始抓取网页: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:32:58,079 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249577973.png
+2026-06-12 15:32:58,113 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:32:58,121 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249577973.png
+2026-06-12 15:32:58,122 - utils - INFO - 成功添加幻灯片: 元旦假期湖北A级景区“吸金”逾15亿元...
+2026-06-12 15:32:58,122 - utils - INFO - ✓ 第 5 行处理成功
+2026-06-12 15:32:58,122 - utils - INFO - 
+步骤5: 保存PPT文件
+2026-06-12 15:32:58,123 - utils - ERROR - 保存PPT失败: [Errno 13] Permission denied: 'C:\\ai-projects\\html-to-ppt\\output\\媒体摘录.pptx'
+2026-06-12 15:32:58,123 - utils - ERROR - 程序执行失败: [Errno 13] Permission denied: 'C:\\ai-projects\\html-to-ppt\\output\\媒体摘录.pptx'
+Traceback (most recent call last):
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\opc\serialized.py", line 81, in _write
+    self._write_content_types_stream(phys_writer)
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\opc\serialized.py", line 91, in _write_content_types_stream
+    phys_writer.write(
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\opc\serialized.py", line 220, in write
+    self._zipf.writestr(pack_uri.membername, blob)
+    ^^^^^^^^^^
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\util.py", line 215, in __get__
+    value = self._fget(obj)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\opc\serialized.py", line 225, in _zipf
+    return zipfile.ZipFile(self._pkg_file, "w", compression=zipfile.ZIP_DEFLATED)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\zipfile\__init__.py", line 1320, in __init__
+    self.fp = io.open(file, filemode)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\ai-projects\\html-to-ppt\\output\\媒体摘录.pptx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ai-projects\html-to-ppt\main.py", line 108, in main
+    output_path = ppt_gen.save()
+                  ^^^^^^^^^^^^^^
+  File "C:\ai-projects\html-to-ppt\ppt_generator.py", line 168, in save
+    self.prs.save(self.output_path)
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\presentation.py", line 39, in save
+    self.part.save(file)
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\parts\presentation.py", line 107, in save
+    self.package.save(path_or_stream)
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\opc\package.py", line 153, in save
+    PackageWriter.write(pkg_file, self._rels, tuple(self.iter_parts()))
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\opc\serialized.py", line 76, in write
+    cls(pkg_file, pkg_rels, parts)._write()
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\opc\serialized.py", line 80, in _write
+    with _PhysPkgWriter.factory(self._pkg_file) as phys_writer:
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\opc\serialized.py", line 216, in __exit__
+    self._zipf.close()
+    ^^^^^^^^^^
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\util.py", line 215, in __get__
+    value = self._fget(obj)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pptx\opc\serialized.py", line 225, in _zipf
+    return zipfile.ZipFile(self._pkg_file, "w", compression=zipfile.ZIP_DEFLATED)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cursorhu\AppData\Local\Programs\Python\Python312\Lib\zipfile\__init__.py", line 1320, in __init__
+    self.fp = io.open(file, filemode)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\ai-projects\\html-to-ppt\\output\\媒体摘录.pptx'
+2026-06-12 15:33:00,287 - utils - INFO - 浏览器已关闭
+2026-06-12 15:33:16,809 - utils - INFO - ==================================================
+2026-06-12 15:33:16,810 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 15:33:16,810 - utils - INFO - ==================================================
+2026-06-12 15:33:16,810 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 15:33:16,946 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 15:33:16,946 - utils - INFO - 数据行数: 150
+2026-06-12 15:33:16,946 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 15:33:16,953 - utils - INFO - 提取了150行有效数据
+2026-06-12 15:33:16,953 - utils - INFO - 测试模式：选择了3条视频 + 2条图文
+2026-06-12 15:33:16,953 - utils - INFO - 共读取 5 行数据
+2026-06-12 15:33:16,953 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 15:33:16,957 - utils - INFO - PPT生成器初始化完成
+2026-06-12 15:33:16,957 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 15:33:16,957 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 15:33:16,961 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 15:33:16,961 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 15:33:16,961 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:33:16,961 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:33:18,120 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 15:33:18,120 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:33:25,902 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249605751.png
+2026-06-12 15:33:25,914 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249605751.png
+2026-06-12 15:33:25,915 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 15:33:25,915 - utils - INFO - ✓ 第 1 行处理成功
+2026-06-12 15:33:25,915 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 15:33:25,915 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 15:33:25,915 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:33:25,915 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:33:25,915 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:33:31,517 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249611362.png
+2026-06-12 15:33:31,524 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249611362.png
+2026-06-12 15:33:31,524 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 15:33:31,524 - utils - INFO - ✓ 第 2 行处理成功
+2026-06-12 15:33:31,524 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 15:33:31,524 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 15:33:31,524 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:33:31,524 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:33:31,524 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:33:36,912 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249616775.png
+2026-06-12 15:33:36,920 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249616775.png
+2026-06-12 15:33:36,920 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 15:33:36,920 - utils - INFO - ✓ 第 3 行处理成功
+2026-06-12 15:33:36,920 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 15:33:36,920 - utils - INFO - 标题: 新年舞台奏响和美乐章（视线）
+2026-06-12 15:33:36,920 - utils - INFO - 链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:33:36,920 - utils - INFO - 识别为图文链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:33:36,920 - utils - INFO - 开始抓取网页: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:33:42,768 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249622642.png
+2026-06-12 15:33:42,790 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:33:42,798 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249622642.png
+2026-06-12 15:33:42,800 - utils - INFO - 成功添加幻灯片: 新年舞台奏响和美乐章（视线）...
+2026-06-12 15:33:42,800 - utils - INFO - ✓ 第 4 行处理成功
+2026-06-12 15:33:42,800 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 15:33:42,800 - utils - INFO - 标题: 元旦假期湖北A级景区“吸金”逾15亿元
+2026-06-12 15:33:42,800 - utils - INFO - 链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:33:42,800 - utils - INFO - 识别为图文链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:33:42,800 - utils - INFO - 开始抓取网页: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:33:50,098 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249629998.png
+2026-06-12 15:33:50,136 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:33:50,144 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249629998.png
+2026-06-12 15:33:50,145 - utils - INFO - 成功添加幻灯片: 元旦假期湖北A级景区“吸金”逾15亿元...
+2026-06-12 15:33:50,145 - utils - INFO - ✓ 第 5 行处理成功
+2026-06-12 15:33:50,145 - utils - INFO - 
+步骤5: 保存PPT文件
+2026-06-12 15:33:50,209 - utils - INFO - PPT保存成功: output/测试_媒体摘录.pptx
+2026-06-12 15:33:50,209 - utils - INFO - 步骤6: 清理临时文件
+2026-06-12 15:33:50,210 - utils - INFO - 
+==================================================
+2026-06-12 15:33:50,210 - utils - INFO - 处理完成！
+2026-06-12 15:33:50,210 - utils - INFO - 成功: 5 行
+2026-06-12 15:33:50,210 - utils - INFO - 失败: 0 行
+2026-06-12 15:33:50,210 - utils - INFO - 输出文件: output/测试_媒体摘录.pptx
+2026-06-12 15:33:50,210 - utils - INFO - ==================================================
+2026-06-12 15:33:52,353 - utils - INFO - 浏览器已关闭
+2026-06-12 15:34:56,133 - utils - INFO - ==================================================
+2026-06-12 15:34:56,133 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 15:34:56,133 - utils - INFO - ==================================================
+2026-06-12 15:34:56,133 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 15:34:56,279 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 15:34:56,279 - utils - INFO - 数据行数: 150
+2026-06-12 15:34:56,279 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 15:34:56,284 - utils - INFO - 提取了150行有效数据
+2026-06-12 15:34:56,284 - utils - INFO - 测试模式：选择了3条视频 + 2条图文
+2026-06-12 15:34:56,284 - utils - INFO - 共读取 5 行数据
+2026-06-12 15:34:56,284 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 15:34:56,288 - utils - INFO - PPT生成器初始化完成
+2026-06-12 15:34:56,289 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 15:34:56,289 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 15:34:56,295 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 15:34:56,295 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 15:34:56,295 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:34:56,295 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:34:57,453 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 15:34:57,453 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:35:04,716 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249704557.png
+2026-06-12 15:35:04,730 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249704557.png
+2026-06-12 15:35:04,730 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 15:35:04,730 - utils - INFO - ✓ 第 1 行处理成功
+2026-06-12 15:35:04,731 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 15:35:04,731 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 15:35:04,731 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:35:04,731 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:35:04,731 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:35:11,506 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249711347.png
+2026-06-12 15:35:11,513 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249711347.png
+2026-06-12 15:35:11,513 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 15:35:11,513 - utils - INFO - ✓ 第 2 行处理成功
+2026-06-12 15:35:11,514 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 15:35:11,514 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 15:35:11,514 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:35:11,514 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:35:11,514 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:35:38,505 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249738348.png
+2026-06-12 15:35:38,515 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249738348.png
+2026-06-12 15:35:38,515 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 15:35:38,515 - utils - INFO - ✓ 第 3 行处理成功
+2026-06-12 15:35:38,515 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 15:35:38,515 - utils - INFO - 标题: 新年舞台奏响和美乐章（视线）
+2026-06-12 15:35:38,515 - utils - INFO - 链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:35:38,515 - utils - INFO - 识别为图文链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:35:38,515 - utils - INFO - 开始抓取网页: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:35:44,296 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249744172.png
+2026-06-12 15:35:44,317 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:35:44,325 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249744172.png
+2026-06-12 15:35:44,327 - utils - INFO - 成功添加幻灯片: 新年舞台奏响和美乐章（视线）...
+2026-06-12 15:35:44,328 - utils - INFO - ✓ 第 4 行处理成功
+2026-06-12 15:35:44,328 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 15:35:44,328 - utils - INFO - 标题: 元旦假期湖北A级景区“吸金”逾15亿元
+2026-06-12 15:35:44,328 - utils - INFO - 链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:35:44,328 - utils - INFO - 识别为图文链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:35:44,328 - utils - INFO - 开始抓取网页: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:35:51,474 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781249751376.png
+2026-06-12 15:35:51,511 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:35:51,518 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781249751376.png
+2026-06-12 15:35:51,520 - utils - INFO - 成功添加幻灯片: 元旦假期湖北A级景区“吸金”逾15亿元...
+2026-06-12 15:35:51,521 - utils - INFO - ✓ 第 5 行处理成功
+2026-06-12 15:35:51,521 - utils - INFO - 
+步骤5: 保存PPT文件
+2026-06-12 15:35:51,587 - utils - INFO - PPT保存成功: output/测试_媒体摘录.pptx
+2026-06-12 15:35:51,588 - utils - INFO - 步骤6: 清理临时文件
+2026-06-12 15:35:51,589 - utils - INFO - 
+==================================================
+2026-06-12 15:35:51,589 - utils - INFO - 处理完成！
+2026-06-12 15:35:51,589 - utils - INFO - 成功: 5 行
+2026-06-12 15:35:51,589 - utils - INFO - 失败: 0 行
+2026-06-12 15:35:51,589 - utils - INFO - 输出文件: output/测试_媒体摘录.pptx
+2026-06-12 15:35:51,590 - utils - INFO - ==================================================
+2026-06-12 15:35:53,738 - utils - INFO - 浏览器已关闭
+2026-06-12 15:49:54,861 - utils - INFO - ==================================================
+2026-06-12 15:49:54,862 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 15:49:54,862 - utils - INFO - ==================================================
+2026-06-12 15:49:54,862 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 15:49:55,010 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 15:49:55,010 - utils - INFO - 数据行数: 150
+2026-06-12 15:49:55,010 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 15:49:55,015 - utils - INFO - 提取了150行有效数据
+2026-06-12 15:49:55,015 - utils - INFO - 测试模式：选择了3条视频 + 2条图文
+2026-06-12 15:49:55,015 - utils - INFO - 共读取 5 行数据
+2026-06-12 15:49:55,015 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 15:49:55,018 - utils - INFO - PPT生成器初始化完成
+2026-06-12 15:49:55,018 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 15:49:55,018 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 15:49:55,023 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 15:49:55,023 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 15:49:55,023 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:49:55,023 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:49:57,700 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 15:49:57,701 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:50:05,226 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250605073.png
+2026-06-12 15:50:05,240 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250605073.png
+2026-06-12 15:50:05,240 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 15:50:05,240 - utils - INFO - ✓ 第 1 行处理成功
+2026-06-12 15:50:05,240 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 15:50:05,240 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 15:50:05,240 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:50:05,240 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:50:05,240 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:50:11,392 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250611239.png
+2026-06-12 15:50:11,400 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250611239.png
+2026-06-12 15:50:11,400 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 15:50:11,400 - utils - INFO - ✓ 第 2 行处理成功
+2026-06-12 15:50:11,400 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 15:50:11,400 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 15:50:11,400 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:50:11,400 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:50:11,400 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:50:17,294 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250617146.png
+2026-06-12 15:50:17,303 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250617146.png
+2026-06-12 15:50:17,303 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 15:50:17,304 - utils - INFO - ✓ 第 3 行处理成功
+2026-06-12 15:50:17,304 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 15:50:17,304 - utils - INFO - 标题: 新年舞台奏响和美乐章（视线）
+2026-06-12 15:50:17,304 - utils - INFO - 链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:50:17,304 - utils - INFO - 识别为图文链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:50:17,304 - utils - INFO - 开始抓取网页: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:50:23,113 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250622989.png
+2026-06-12 15:50:23,167 - utils - INFO - 使用p标签集合提取到 71 个段落
+2026-06-12 15:50:23,167 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:50:23,176 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250622989.png
+2026-06-12 15:50:23,176 - utils - INFO - 成功添加幻灯片: 新年舞台奏响和美乐章（视线）...
+2026-06-12 15:50:23,176 - utils - INFO - ✓ 第 4 行处理成功
+2026-06-12 15:50:23,176 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 15:50:23,176 - utils - INFO - 标题: 元旦假期湖北A级景区“吸金”逾15亿元
+2026-06-12 15:50:23,176 - utils - INFO - 链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:50:23,176 - utils - INFO - 识别为图文链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:50:23,176 - utils - INFO - 开始抓取网页: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:50:30,325 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250630212.png
+2026-06-12 15:50:30,399 - utils - INFO - 使用选择器 '.left_zw' 提取到内容
+2026-06-12 15:50:30,399 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:50:30,409 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250630212.png
+2026-06-12 15:50:30,410 - utils - INFO - 成功添加幻灯片: 元旦假期湖北A级景区“吸金”逾15亿元...
+2026-06-12 15:50:30,410 - utils - INFO - ✓ 第 5 行处理成功
+2026-06-12 15:50:30,410 - utils - INFO - 
+步骤5: 保存PPT文件
+2026-06-12 15:50:30,475 - utils - INFO - PPT保存成功: output/测试_媒体摘录.pptx
+2026-06-12 15:50:30,475 - utils - INFO - 步骤6: 清理临时文件
+2026-06-12 15:50:30,475 - utils - INFO - 
+==================================================
+2026-06-12 15:50:30,475 - utils - INFO - 处理完成！
+2026-06-12 15:50:30,475 - utils - INFO - 成功: 5 行
+2026-06-12 15:50:30,476 - utils - INFO - 失败: 0 行
+2026-06-12 15:50:30,476 - utils - INFO - 输出文件: output/测试_媒体摘录.pptx
+2026-06-12 15:50:30,476 - utils - INFO - ==================================================
+2026-06-12 15:50:32,624 - utils - INFO - 浏览器已关闭
+2026-06-12 15:51:39,313 - utils - INFO - ==================================================
+2026-06-12 15:51:39,314 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 15:51:39,314 - utils - INFO - ==================================================
+2026-06-12 15:51:39,314 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 15:51:39,452 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 15:51:39,453 - utils - INFO - 数据行数: 150
+2026-06-12 15:51:39,453 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 15:51:39,457 - utils - INFO - 提取了150行有效数据
+2026-06-12 15:51:39,458 - utils - INFO - 测试模式：选择了3条视频 + 2条图文
+2026-06-12 15:51:39,458 - utils - INFO - 共读取 5 行数据
+2026-06-12 15:51:39,458 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 15:51:39,461 - utils - INFO - PPT生成器初始化完成
+2026-06-12 15:51:39,461 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 15:51:39,462 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 15:51:39,467 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 15:51:39,467 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 15:51:39,467 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:51:39,468 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:51:40,649 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 15:51:40,650 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:51:47,886 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250707742.png
+2026-06-12 15:51:47,903 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250707742.png
+2026-06-12 15:51:47,904 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 15:51:47,904 - utils - INFO - ✓ 第 1 行处理成功
+2026-06-12 15:51:47,905 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 15:51:47,905 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 15:51:47,905 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:51:47,905 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:51:47,905 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:51:53,566 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250713420.png
+2026-06-12 15:51:53,573 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250713420.png
+2026-06-12 15:51:53,574 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 15:51:53,574 - utils - INFO - ✓ 第 2 行处理成功
+2026-06-12 15:51:53,574 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 15:51:53,574 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 15:51:53,574 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:51:53,574 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:51:53,574 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:51:59,002 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250718863.png
+2026-06-12 15:51:59,013 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250718863.png
+2026-06-12 15:51:59,013 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 15:51:59,013 - utils - INFO - ✓ 第 3 行处理成功
+2026-06-12 15:51:59,013 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 15:51:59,014 - utils - INFO - 标题: 新年舞台奏响和美乐章（视线）
+2026-06-12 15:51:59,014 - utils - INFO - 链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:51:59,014 - utils - INFO - 识别为图文链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:51:59,014 - utils - INFO - 开始抓取网页: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:52:04,807 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250724683.png
+2026-06-12 15:52:04,862 - utils - INFO - 使用p标签集合提取到 71 个段落
+2026-06-12 15:52:04,862 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:52:04,870 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250724683.png
+2026-06-12 15:52:04,872 - utils - INFO - 成功添加幻灯片: 新年舞台奏响和美乐章（视线）...
+2026-06-12 15:52:04,872 - utils - INFO - ✓ 第 4 行处理成功
+2026-06-12 15:52:04,872 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 15:52:04,872 - utils - INFO - 标题: 元旦假期湖北A级景区“吸金”逾15亿元
+2026-06-12 15:52:04,872 - utils - INFO - 链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:52:04,873 - utils - INFO - 识别为图文链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:52:04,873 - utils - INFO - 开始抓取网页: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:52:11,988 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250731888.png
+2026-06-12 15:52:12,064 - utils - INFO - 使用选择器 '.left_zw' 提取到内容
+2026-06-12 15:52:12,064 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:52:12,074 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250731888.png
+2026-06-12 15:52:12,075 - utils - INFO - 成功添加幻灯片: 元旦假期湖北A级景区“吸金”逾15亿元...
+2026-06-12 15:52:12,075 - utils - INFO - ✓ 第 5 行处理成功
+2026-06-12 15:52:12,076 - utils - INFO - 
+步骤5: 保存PPT文件
+2026-06-12 15:52:12,139 - utils - INFO - PPT保存成功: output/测试_媒体摘录.pptx
+2026-06-12 15:52:12,139 - utils - INFO - 步骤6: 清理临时文件
+2026-06-12 15:52:12,140 - utils - INFO - 
+==================================================
+2026-06-12 15:52:12,140 - utils - INFO - 处理完成！
+2026-06-12 15:52:12,140 - utils - INFO - 成功: 5 行
+2026-06-12 15:52:12,140 - utils - INFO - 失败: 0 行
+2026-06-12 15:52:12,140 - utils - INFO - 输出文件: output/测试_媒体摘录.pptx
+2026-06-12 15:52:12,140 - utils - INFO - ==================================================
+2026-06-12 15:52:14,268 - utils - INFO - 浏览器已关闭
+2026-06-12 15:55:53,591 - utils - INFO - ==================================================
+2026-06-12 15:55:53,591 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 15:55:53,591 - utils - INFO - ==================================================
+2026-06-12 15:55:53,591 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 15:55:53,752 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 15:55:53,752 - utils - INFO - 数据行数: 150
+2026-06-12 15:55:53,752 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 15:55:53,759 - utils - INFO - 提取了150行有效数据
+2026-06-12 15:55:53,759 - utils - INFO - 测试模式：选择了3条视频 + 2条图文
+2026-06-12 15:55:53,759 - utils - INFO - 共读取 5 行数据
+2026-06-12 15:55:53,759 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 15:55:53,763 - utils - INFO - PPT生成器初始化完成
+2026-06-12 15:55:53,763 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 15:55:53,763 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 15:55:53,768 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 15:55:53,768 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 15:55:53,768 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:55:53,768 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:55:54,944 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 15:55:54,944 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:56:00,176 - utils - INFO - 视频页面，额外等待5秒让广告播放完毕
+2026-06-12 15:56:05,430 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250965176.png
+2026-06-12 15:56:05,443 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250965176.png
+2026-06-12 15:56:05,443 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 15:56:05,443 - utils - INFO - ✓ 第 1 行处理成功
+2026-06-12 15:56:05,444 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 15:56:05,444 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 15:56:05,444 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:56:05,444 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:56:05,444 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:56:09,302 - utils - INFO - 视频页面，额外等待5秒让广告播放完毕
+2026-06-12 15:56:14,506 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250974303.png
+2026-06-12 15:56:14,514 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250974303.png
+2026-06-12 15:56:14,514 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 15:56:14,514 - utils - INFO - ✓ 第 2 行处理成功
+2026-06-12 15:56:14,514 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 15:56:14,514 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 15:56:14,514 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:56:14,514 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:56:14,514 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:56:17,889 - utils - INFO - 视频页面，额外等待5秒让广告播放完毕
+2026-06-12 15:56:23,108 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250982890.png
+2026-06-12 15:56:23,117 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250982890.png
+2026-06-12 15:56:23,117 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 15:56:23,117 - utils - INFO - ✓ 第 3 行处理成功
+2026-06-12 15:56:23,117 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 15:56:23,117 - utils - INFO - 标题: 新年舞台奏响和美乐章（视线）
+2026-06-12 15:56:23,117 - utils - INFO - 链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:56:23,117 - utils - INFO - 识别为图文链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:56:23,117 - utils - INFO - 开始抓取网页: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:56:27,132 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250987004.png
+2026-06-12 15:56:27,187 - utils - INFO - 使用p标签集合提取到 71 个段落
+2026-06-12 15:56:27,188 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:56:27,195 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250987004.png
+2026-06-12 15:56:27,196 - utils - INFO - 成功添加幻灯片: 新年舞台奏响和美乐章（视线）...
+2026-06-12 15:56:27,196 - utils - INFO - ✓ 第 4 行处理成功
+2026-06-12 15:56:27,196 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 15:56:27,196 - utils - INFO - 标题: 元旦假期湖北A级景区“吸金”逾15亿元
+2026-06-12 15:56:27,196 - utils - INFO - 链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:56:27,196 - utils - INFO - 识别为图文链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:56:27,196 - utils - INFO - 开始抓取网页: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:56:32,603 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781250992471.png
+2026-06-12 15:56:32,678 - utils - INFO - 使用选择器 '.left_zw' 提取到内容
+2026-06-12 15:56:32,678 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:56:32,687 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781250992471.png
+2026-06-12 15:56:32,687 - utils - INFO - 成功添加幻灯片: 元旦假期湖北A级景区“吸金”逾15亿元...
+2026-06-12 15:56:32,688 - utils - INFO - ✓ 第 5 行处理成功
+2026-06-12 15:56:32,688 - utils - INFO - 
+步骤5: 保存PPT文件
+2026-06-12 15:56:32,753 - utils - INFO - PPT保存成功: output/测试_媒体摘录.pptx
+2026-06-12 15:56:32,753 - utils - INFO - 步骤6: 清理临时文件
+2026-06-12 15:56:32,754 - utils - INFO - 
+==================================================
+2026-06-12 15:56:32,754 - utils - INFO - 处理完成！
+2026-06-12 15:56:32,754 - utils - INFO - 成功: 5 行
+2026-06-12 15:56:32,754 - utils - INFO - 失败: 0 行
+2026-06-12 15:56:32,754 - utils - INFO - 输出文件: output/测试_媒体摘录.pptx
+2026-06-12 15:56:32,754 - utils - INFO - ==================================================
+2026-06-12 15:56:34,901 - utils - INFO - 浏览器已关闭
+2026-06-12 15:57:09,242 - utils - INFO - ==================================================
+2026-06-12 15:57:09,242 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 15:57:09,242 - utils - INFO - ==================================================
+2026-06-12 15:57:09,242 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 15:57:09,424 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 15:57:09,424 - utils - INFO - 数据行数: 150
+2026-06-12 15:57:09,424 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 15:57:09,430 - utils - INFO - 提取了150行有效数据
+2026-06-12 15:57:09,430 - utils - INFO - 测试模式：选择了3条视频 + 2条图文
+2026-06-12 15:57:09,430 - utils - INFO - 共读取 5 行数据
+2026-06-12 15:57:09,431 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 15:57:09,434 - utils - INFO - PPT生成器初始化完成
+2026-06-12 15:57:09,434 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 15:57:09,434 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 15:57:09,440 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 15:57:09,440 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 15:57:09,440 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:57:09,440 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:57:10,614 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 15:57:10,614 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:57:15,552 - utils - INFO - 视频页面，额外等待5秒让广告播放完毕
+2026-06-12 15:57:20,757 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781251040552.png
+2026-06-12 15:57:20,772 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781251040552.png
+2026-06-12 15:57:20,772 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 15:57:20,772 - utils - INFO - ✓ 第 1 行处理成功
+2026-06-12 15:57:20,772 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 15:57:20,772 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 15:57:20,773 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:57:20,773 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:57:20,773 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:57:24,252 - utils - INFO - 视频页面，额外等待5秒让广告播放完毕
+2026-06-12 15:57:29,451 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781251049253.png
+2026-06-12 15:57:29,459 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781251049253.png
+2026-06-12 15:57:29,460 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 15:57:29,460 - utils - INFO - ✓ 第 2 行处理成功
+2026-06-12 15:57:29,460 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 15:57:29,460 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 15:57:29,460 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:57:29,460 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:57:29,460 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 15:57:32,746 - utils - INFO - 视频页面，额外等待5秒让广告播放完毕
+2026-06-12 15:57:37,904 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781251057746.png
+2026-06-12 15:57:37,914 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781251057746.png
+2026-06-12 15:57:37,915 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 15:57:37,915 - utils - INFO - ✓ 第 3 行处理成功
+2026-06-12 15:57:37,915 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 15:57:37,915 - utils - INFO - 标题: 新年舞台奏响和美乐章（视线）
+2026-06-12 15:57:37,915 - utils - INFO - 链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:57:37,915 - utils - INFO - 识别为图文链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:57:37,915 - utils - INFO - 开始抓取网页: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 15:57:41,733 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781251061613.png
+2026-06-12 15:57:41,788 - utils - INFO - 使用p标签集合提取到 71 个段落
+2026-06-12 15:57:41,788 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:57:41,796 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781251061613.png
+2026-06-12 15:57:41,796 - utils - INFO - 成功添加幻灯片: 新年舞台奏响和美乐章（视线）...
+2026-06-12 15:57:41,796 - utils - INFO - ✓ 第 4 行处理成功
+2026-06-12 15:57:41,796 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 15:57:41,796 - utils - INFO - 标题: 元旦假期湖北A级景区“吸金”逾15亿元
+2026-06-12 15:57:41,797 - utils - INFO - 链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:57:41,797 - utils - INFO - 识别为图文链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:57:41,797 - utils - INFO - 开始抓取网页: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 15:57:46,869 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781251066770.png
+2026-06-12 15:57:46,946 - utils - INFO - 使用选择器 '.left_zw' 提取到内容
+2026-06-12 15:57:46,946 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 15:57:46,954 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781251066770.png
+2026-06-12 15:57:46,955 - utils - INFO - 成功添加幻灯片: 元旦假期湖北A级景区“吸金”逾15亿元...
+2026-06-12 15:57:46,955 - utils - INFO - ✓ 第 5 行处理成功
+2026-06-12 15:57:46,955 - utils - INFO - 
+步骤5: 保存PPT文件
+2026-06-12 15:57:47,019 - utils - INFO - PPT保存成功: output/测试_媒体摘录.pptx
+2026-06-12 15:57:47,020 - utils - INFO - 步骤6: 清理临时文件
+2026-06-12 15:57:47,021 - utils - INFO - 
+==================================================
+2026-06-12 15:57:47,022 - utils - INFO - 处理完成！
+2026-06-12 15:57:47,022 - utils - INFO - 成功: 5 行
+2026-06-12 15:57:47,022 - utils - INFO - 失败: 0 行
+2026-06-12 15:57:47,022 - utils - INFO - 输出文件: output/测试_媒体摘录.pptx
+2026-06-12 15:57:47,022 - utils - INFO - ==================================================
+2026-06-12 15:57:49,142 - utils - INFO - 浏览器已关闭
+2026-06-12 15:59:15,744 - utils - INFO - ==================================================
+2026-06-12 15:59:15,744 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 15:59:15,744 - utils - INFO - ==================================================
+2026-06-12 15:59:15,744 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 15:59:15,890 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 15:59:15,890 - utils - INFO - 数据行数: 150
+2026-06-12 15:59:15,890 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 15:59:15,897 - utils - INFO - 提取了150行有效数据
+2026-06-12 15:59:15,897 - utils - INFO - 测试模式：选择了3条视频 + 2条图文
+2026-06-12 15:59:15,897 - utils - INFO - 共读取 5 行数据
+2026-06-12 15:59:15,897 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 15:59:15,900 - utils - INFO - PPT生成器初始化完成
+2026-06-12 15:59:15,900 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 15:59:15,900 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 15:59:15,904 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 15:59:15,904 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 15:59:15,904 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:59:15,904 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:59:17,092 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 15:59:17,092 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:59:19,843 - utils - INFO - ==================================================
+2026-06-12 15:59:19,844 - utils - INFO - 媒体摘要PPT生成器启动
+2026-06-12 15:59:19,844 - utils - INFO - ==================================================
+2026-06-12 15:59:19,844 - utils - INFO - 步骤1: 读取Excel文件
+2026-06-12 15:59:19,987 - utils - INFO - 成功读取Excel文件: C:\ai-projects\html-to-ppt\example\2026年1月媒体摘录.xlsx
+2026-06-12 15:59:19,987 - utils - INFO - 数据行数: 150
+2026-06-12 15:59:19,988 - utils - INFO - 列名: ['序号', '媒体名称', '发布时间', '标题', '链接', '备注']
+2026-06-12 15:59:19,993 - utils - INFO - 提取了150行有效数据
+2026-06-12 15:59:19,993 - utils - INFO - 测试模式：选择了3条视频 + 2条图文
+2026-06-12 15:59:19,993 - utils - INFO - 共读取 5 行数据
+2026-06-12 15:59:19,993 - utils - INFO - 步骤2: 初始化PPT生成器
+2026-06-12 15:59:19,997 - utils - INFO - PPT生成器初始化完成
+2026-06-12 15:59:19,997 - utils - INFO - 步骤3: 初始化网页抓取器
+2026-06-12 15:59:19,997 - utils - INFO - 步骤4: 开始处理数据并生成PPT
+2026-06-12 15:59:20,003 - utils - INFO - 
+处理第 1/5 行
+2026-06-12 15:59:20,003 - utils - INFO - 标题: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来
+2026-06-12 15:59:20,003 - utils - INFO - 链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:59:20,003 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:59:21,229 - utils - INFO - Selenium浏览器初始化成功
+2026-06-12 15:59:21,229 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2025/12/31/VIDEoaGQNS9CZPXgHufwOnUe251231.shtml
+2026-06-12 15:59:22,204 - utils - INFO - 视频页面，等待30秒让广告播放完毕
+2026-06-12 15:59:25,981 - utils - INFO - 视频页面，等待30秒让广告播放完毕
+2026-06-12 15:59:56,189 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781251195981.png
+2026-06-12 15:59:56,204 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781251195981.png
+2026-06-12 15:59:56,204 - utils - INFO - 成功添加幻灯片: “美”在2025 湖北武汉 元旦市集迎新年 创新场景引客来...
+2026-06-12 15:59:56,204 - utils - INFO - ✓ 第 1 行处理成功
+2026-06-12 15:59:56,205 - utils - INFO - 
+处理第 2/5 行
+2026-06-12 15:59:56,205 - utils - INFO - 标题: 湖北武汉：百年江汉关 璀璨迎新夜
+2026-06-12 15:59:56,205 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:59:56,205 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 15:59:56,205 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEt3QUym5BPlaEGRZnxSqm260101.shtml
+2026-06-12 16:00:00,001 - utils - INFO - 视频页面，等待30秒让广告播放完毕
+2026-06-12 16:00:30,230 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781251230002.png
+2026-06-12 16:00:30,239 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781251230002.png
+2026-06-12 16:00:30,239 - utils - INFO - 成功添加幻灯片: 湖北武汉：百年江汉关 璀璨迎新夜...
+2026-06-12 16:00:30,239 - utils - INFO - ✓ 第 2 行处理成功
+2026-06-12 16:00:30,239 - utils - INFO - 
+处理第 3/5 行
+2026-06-12 16:00:30,239 - utils - INFO - 标题: 天南地北多彩活动喜迎新年
+2026-06-12 16:00:30,239 - utils - INFO - 链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 16:00:30,239 - utils - INFO - 识别为视频链接: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 16:00:30,239 - utils - INFO - 开始抓取网页: https://tv.cctv.com/2026/01/01/VIDEBj4TOslbEV9hhGPpNnTx260101.shtml
+2026-06-12 16:00:33,874 - utils - INFO - 视频页面，等待30秒让广告播放完毕
+2026-06-12 16:01:04,095 - utils - INFO - 视频播放器截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781251263874.png
+2026-06-12 16:01:04,103 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781251263874.png
+2026-06-12 16:01:04,104 - utils - INFO - 成功添加幻灯片: 天南地北多彩活动喜迎新年...
+2026-06-12 16:01:04,104 - utils - INFO - ✓ 第 3 行处理成功
+2026-06-12 16:01:04,104 - utils - INFO - 
+处理第 4/5 行
+2026-06-12 16:01:04,104 - utils - INFO - 标题: 新年舞台奏响和美乐章（视线）
+2026-06-12 16:01:04,104 - utils - INFO - 链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 16:01:04,105 - utils - INFO - 识别为图文链接: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 16:01:04,105 - utils - INFO - 开始抓取网页: http://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128754.html
+2026-06-12 16:01:07,923 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781251267800.png
+2026-06-12 16:01:07,978 - utils - INFO - 使用p标签集合提取到 71 个段落
+2026-06-12 16:01:07,978 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 16:01:07,986 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781251267800.png
+2026-06-12 16:01:07,988 - utils - INFO - 成功添加幻灯片: 新年舞台奏响和美乐章（视线）...
+2026-06-12 16:01:07,988 - utils - INFO - ✓ 第 4 行处理成功
+2026-06-12 16:01:07,988 - utils - INFO - 
+处理第 5/5 行
+2026-06-12 16:01:07,988 - utils - INFO - 标题: 元旦假期湖北A级景区“吸金”逾15亿元
+2026-06-12 16:01:07,989 - utils - INFO - 链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 16:01:07,989 - utils - INFO - 识别为图文链接: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 16:01:07,989 - utils - INFO - 开始抓取网页: http://www.chinanews.com.cn/cj/2026/01-03/10545295.shtml
+2026-06-12 16:01:13,116 - utils - INFO - 页面截图保存: C:\ai-projects\html-to-ppt\temp\screenshot_1781251273019.png
+2026-06-12 16:01:13,192 - utils - INFO - 使用选择器 '.left_zw' 提取到内容
+2026-06-12 16:01:13,193 - utils - INFO - 提取文本摘要，长度: 303
+2026-06-12 16:01:13,202 - utils - INFO - 添加图片: C:\ai-projects\html-to-ppt\temp\screenshot_1781251273019.png
+2026-06-12 16:01:13,203 - utils - INFO - 成功添加幻灯片: 元旦假期湖北A级景区“吸金”逾15亿元...
+2026-06-12 16:01:13,203 - utils - INFO - ✓ 第 5 行处理成功
+2026-06-12 16:01:13,204 - utils - INFO - 
+步骤5: 保存PPT文件
+2026-06-12 16:01:13,278 - utils - INFO - PPT保存成功: output/测试_媒体摘录.pptx
+2026-06-12 16:01:13,278 - utils - INFO - 步骤6: 清理临时文件
+2026-06-12 16:01:13,280 - utils - INFO - 
+==================================================
+2026-06-12 16:01:13,280 - utils - INFO - 处理完成！
+2026-06-12 16:01:13,280 - utils - INFO - 成功: 5 行
+2026-06-12 16:01:13,280 - utils - INFO - 失败: 0 行
+2026-06-12 16:01:13,280 - utils - INFO - 输出文件: output/测试_媒体摘录.pptx
+2026-06-12 16:01:13,280 - utils - INFO - ==================================================
+2026-06-12 16:01:15,423 - utils - INFO - 浏览器已关闭
