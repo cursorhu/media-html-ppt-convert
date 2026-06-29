@@ -11,7 +11,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 
 PyInstaller.__main__.run([
     'main.py',                          # 主程序入口
-    '--name=媒体摘要PPT生成器',          # 生成的exe名称
+    '--name=media_ppt_converter',       # 生成的exe名称（改为英文）
     '--onefile',                        # 打包成单个exe文件
     '--console',                        # 显示控制台窗口
     '--icon=NONE',                      # 图标（如果有的话）

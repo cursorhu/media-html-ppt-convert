@@ -17,7 +17,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 
 PyInstaller.__main__.run([
     'main.py',                          # 主程序入口
-    '--name=媒体摘要PPT生成器',          # 生成的可执行文件名称
+    '--name=media_ppt_converter',       # 生成的可执行文件名称（改为英文）
     '--onefile',                        # 打包成单个可执行文件
     '--console',                        # 显示控制台窗口（CLI工具）
     '--icon=NONE',                      # 图标（如果有的话）
@@ -41,6 +41,6 @@ PyInstaller.__main__.run([
 ])
 
 print("\n=== macOS 构建完成 ===")
-print(f"可执行文件位置：{os.path.join(current_dir, 'dist', '媒体摘要PPT生成器')}")
+print(f"可执行文件位置：{os.path.join(current_dir, 'dist', 'media_ppt_converter')}")
 print("\n使用方法：")
-print("  ./dist/媒体摘要PPT生成器 --excel input/your_file.xlsx")
+print("  ./dist/media_ppt_converter --excel input/your_file.xlsx")

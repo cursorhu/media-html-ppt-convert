@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: windows-executable
-          path: dist/媒体摘要PPT生成器.exe
+          path: dist/media_ppt_converter.exe
           retention-days: 30
 
   build-macos:
@@ -64,7 +64,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: macos-executable
-          path: dist/媒体摘要PPT生成器
+          path: dist/media_ppt_converter
           retention-days: 30
 
   create-release:
